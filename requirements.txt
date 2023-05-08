@@ -1,0 +1,10 @@
+# https://docs.fastf1.dev/index.html
+fastf1~=3.0.0
+# https://docs.influxdata.com/influxdb/v2.0/api-guide/client-libraries/python/
+influxdb-client~=1.36.1
+# https://typer.tiangolo.com
+typer~=0.9.0
+# https://docs.pytest.org/en/latest/
+pytest~=7.3.1
+# https://github.com/mwilliamson/jq.py
+jq~=1.4.0
